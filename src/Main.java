@@ -15,7 +15,7 @@ public class Main {
         }
 
         System.out.print("Do you want it cheap? (y/n) ");
-        String cheap = scan.nextLine();000000
+        String cheap = scan.nextLine();
         if (cheap.equals("y")){
             bCheap = true;
         }
